@@ -5,6 +5,8 @@
 //  Created by 古館和美 on 2022/10/16.
 //
 
+//git pushです。課題出してないんでよくわかんないです。
+
 import UIKit
 
 class ViewController: UIViewController {
